@@ -15,7 +15,7 @@ class Dog
   end
   
   def self.print_all 
-    puts @@names 
+    dog_print_array
   end 
   
 end 
